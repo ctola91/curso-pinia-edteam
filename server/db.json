@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Nintendo Switch",
+      "description": "Dispositivo para jugar juegos de Nintendo",
+      "price": 20,
+      "cost": 10
+    },
+    {
+      "id": "2",
+      "title": "Celular Nokia modelo 2021",
+      "description": "Dispositivo para realizar llamadas",
+      "price": 20,
+      "cost": 10
+    },
+    {
+      "id": "4",
+      "title": "Iphone",
+      "description": "Dispositivo para jugar juegos de Nintendo",
+      "price": 20,
+      "cost": 10
+    },
+    {
+      "id": "2412c001-b979-410b-8ea1-2ba5f8b72614",
+      "title": "Celular Xiaomi 2023",
+      "description": "celular modelo 2023",
+      "price": 90,
+      "cost": 75
+    },
+    {
+      "id": "8f9839ad-2536-4b34-8822-63148b644e6e",
+      "title": "Play station 5",
+      "description": "Plataforma de juegos",
+      "price": 100,
+      "cost": 80
+    },
+    {
+      "id": "1a678975-81e1-4e37-b93f-de7902152b52",
+      "title": "Celular Motorola",
+      "description": "este es un celular de ultima generacion",
+      "price": 100,
+      "cost": 80
+    }
+  ],
+  "reviews": [],
+  "users": []
+}
